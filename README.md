@@ -1,3 +1,8 @@
-# Linux Study Notes
+# Linux Administration Notes
 
-This repository is a collection of hands-on notes I'm writing while learning Linux administration.
+Hands-on notes from learning Linux administration and Ansible automation.
+
+## Contents
+
+1. [Filesystem Layout and Navigation](01-filesystem.md)
+2. [Ansible Lab Setup](02-ansible-setup.md)
